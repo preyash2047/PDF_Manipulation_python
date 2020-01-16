@@ -20,4 +20,14 @@ Output file Preview:  https://drive.google.com/open?id=1un49xkx0TEhCNSgqHUUU_4kZ
 
 Demo Video: https://drive.google.com/open?id=1qSBmb6030XxcYn9ewUI1TA2ADszoIphA
 
+File Explaination:
+  
+  Here i have uploded three files:
+  1. with log.py
+      if log is required then use this program
+  2. Without Log.py
+      if log is not required then use this
+  3. log_me.csv
+      This is the example of log file. 
+
 Hope you like it.
